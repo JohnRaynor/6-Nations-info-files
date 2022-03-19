@@ -1,1 +1,10 @@
 info re how to do it
+
+
+19/3/2022 - copied master spreadsheet to folder & fixed a few things so tat it appears to work.
+CReated flow for round 1, and matching spreadsheet.
+Form is OK, but I have no idea how to trigger actions (checking, updating sheet) when new entry is submitted
+
+
+https://docs.google.com/forms/
+https://docs.google.com/spreadsheets/
