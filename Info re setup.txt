@@ -16,3 +16,7 @@ Form is OK, but I have no idea how to trigger actions (checking, updating sheet)
 
 https://docs.google.com/forms/
 https://docs.google.com/spreadsheets/
+
+Good gide - including adding menus, buttons etc.
+https://www.benlcollins.com/apps-script/google-apps-script-beginner-guide/
+
